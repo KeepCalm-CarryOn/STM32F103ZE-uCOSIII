@@ -1,0 +1,11 @@
+.\objects\lib_mem.o: ..\ucosIII\LIB\lib_mem.c
+.\objects\lib_mem.o: ..\ucosIII\LIB\lib_mem.h
+.\objects\lib_mem.o: ..\ucosIII\CPU\ARM-Cortex-M3\RealView\cpu.h
+.\objects\lib_mem.o: ..\ucosIII\CPU\cpu_def.h
+.\objects\lib_mem.o: ..\ucosIII\CPU\cpu_cfg.h
+.\objects\lib_mem.o: ..\ucosIII\CPU\cpu_core.h
+.\objects\lib_mem.o: ..\ucosIII\LIB\lib_def.h
+.\objects\lib_mem.o: ..\ucosIII\LIB\lib_mem.h
+.\objects\lib_mem.o: ..\ucosIII\LIB\lib_str.h
+.\objects\lib_mem.o: ..\ucosIII\LIB\lib_ascii.h
+.\objects\lib_mem.o: ..\ucosIII\CONFIG\lib_cfg.h
